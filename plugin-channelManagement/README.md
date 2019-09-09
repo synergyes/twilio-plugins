@@ -16,8 +16,8 @@ npm install
 ```
 
 Edit your public/appConfig.js file;
-  Replace the accountSid value with your Project Account SID.
-  Replace the serviceBaseUrl value with you Runtime domain (without the https://).
+- Replace the accountSid value with your Project Account SID.
+- Replace the serviceBaseUrl value with you Runtime domain (without the https://).
 
 Upload the Functions from the src/functions directory to your Twilio Functions.
 
